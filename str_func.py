@@ -2,3 +2,8 @@
 
 def stroke(word):
     return str.upper(word)
+
+'''функция, которая делает заглавными первые буквы каждого слова в строке'''
+
+def stroke_2(word):
+    return str.title(word)
